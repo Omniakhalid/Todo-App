@@ -1,0 +1,15 @@
+{
+  "appbar_title": "قائمة المهام",
+  "delete_btn": "مسح",
+  "add_task_title": "إضافة مهمة جديدة",
+  "title_txt": "عنوان المهمة",
+    "edit_task": "تعديل المهمة",
+  "description_txt": "تفاصيل المهمة",
+  "date_label": "إختر التوقيت",
+  "add_btn": "إضافة مهمة",
+  "language_label":	"اللغة",
+  "mode_label"	:"الوضعية",
+    "light_mode":	"مضيئ",
+    "dark_mode":	"مظلم",
+    "save_changes_btn":"حفظ التغييرات"
+}

@@ -1,0 +1,15 @@
+{
+  "appbar_title": "To Do List",
+  "delete_btn": "Delete",
+  "add_task_title": "Add new Task",
+  "title_txt": "Title",
+  "edit_task": "Edit Task",
+  "description_txt": "Description",
+  "date_label": "Select Date",
+  "add_btn": "Add",
+  "language_label":	"Language",
+  "mode_label"	:"Mode",
+  "light_mode":	"Light",
+  "dark_mode":	"Dark",
+  "save_changes_btn": "Save Changes"
+}
